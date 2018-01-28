@@ -1,0 +1,48 @@
+
+#intro{
+  background-color: #eaecf7;
+  text-align: justify;
+}
+
+body{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12pt;
+  margin-left:10px;
+  margin-right:10px;
+}
+
+.jumbotron{
+  background-image: url(graytiles.jpg);
+  background-size:cover;
+  margin:auto;
+}
+
+.jumbotron h1{
+  font-size: 30pt;
+}
+
+.headerrow{
+  text-align: center;
+  background-color: gray;
+  color: white;
+  font-size: 15pt;
+}
+
+.careercol{
+  margin: auto;
+}
+
+#indexbod{
+  background-image: url(graytiles.jpg);
+  background-size:cover;
+}
+
+#introtitle{
+  font-size: 20pt;
+}
+
+.carousel-caption{
+  background-color: rgba(157, 157, 157, 0.7 );
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12pt;
+}
